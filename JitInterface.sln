@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JitInterface", "JitInterface\JitInterface.csproj", "{8B05C20F-64A7-4EA6-AF42-074CE6E7877D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JitInterface.TestApplication", "JitInterface.TestApplication\JitInterface.TestApplication.csproj", "{3790C79C-301E-4E94-9197-56113D15C5BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B05C20F-64A7-4EA6-AF42-074CE6E7877D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B05C20F-64A7-4EA6-AF42-074CE6E7877D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B05C20F-64A7-4EA6-AF42-074CE6E7877D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B05C20F-64A7-4EA6-AF42-074CE6E7877D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3790C79C-301E-4E94-9197-56113D15C5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3790C79C-301E-4E94-9197-56113D15C5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3790C79C-301E-4E94-9197-56113D15C5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3790C79C-301E-4E94-9197-56113D15C5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
